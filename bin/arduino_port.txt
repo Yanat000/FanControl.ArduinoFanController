@@ -1,0 +1,1 @@
+Place your arduino port here in plain text and remove all this text. eg: COM4
