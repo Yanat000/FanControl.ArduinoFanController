@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>FanControl.ArduinoInterface</RootNamespace>
+    <AssemblyName>FanControl.ArduinoInterface</AssemblyName>
+    <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml" />
+    <Reference Include="FanControl.Plugins">
+      <HintPath>DLLs\FanControl.Plugins.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
