@@ -61,5 +61,6 @@ Tested versions: **FanControl V244**.
 
 - Supports 1–8 fans; unused pins are ignored automatically.  
 - If the Arduino COM port changes, update `arduino_port.txt`.  
-- Fans default to **30% speed** when idle.  
+- Fans default to **30% speed** when idle.
+- Putting a 1K resistor across the PWN pin and GND should prevent the fans from going at full speed when it shouldn't
 
