@@ -1,5 +1,5 @@
-const int fanPins[] = {2, 4};
-const char* fanNames[] = {"CPU Fan", "System Fan"};
+const int fanPins[] = {2, 4, 6, 8, 12};
+const char* fanNames[] = {"CPU Fan", "System Fan", "Other Fan 1", "Other Fan 2", " Other Fan3"};
 const int FAN_COUNT = sizeof(fanPins) / sizeof(fanPins[0]);
 
 int fanPWM[FAN_COUNT];
