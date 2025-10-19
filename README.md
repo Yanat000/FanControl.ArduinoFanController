@@ -64,6 +64,14 @@ Tested versions: **FanControl V244**.
 - Fans default to **30% speed** when idle.
 - Putting a 1K resistor across the PWN pin and GND should prevent the fans from going at full speed when it shouldn't
 
+---
+
+## Use case
+
+- If you want to be able to control dell's fans, you can by hijacking the PWM/(in most cases)Blue wire to the Arduino
+
+---
+
 ## 💬 Feedback & Support
 
 If you need help setting up the Arduino plugin, have questions, or want to share feedback:
