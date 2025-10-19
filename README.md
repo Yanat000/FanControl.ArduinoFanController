@@ -69,7 +69,7 @@ Tested versions: **FanControl V244**.
 If you need help setting up the Arduino plugin, have questions, or want to share feedback:
 
 - Ask questions or start a discussion here:  
-  👉 [GitHub Discussions](https://github.com/YOUR_USERNAME/FanControl.ArduinoInterface/discussions)
+  👉 [GitHub Discussions](https://github.com/Yanat000/FanControl.ArduinoFanController/discussions)
 
 - Report confirmed bugs or request features here:  
-  👉 [GitHub Issues](https://github.com/YOUR_USERNAME/FanControl.ArduinoInterface/issues)
+  👉 [GitHub Issues](https://github.com/Yanat000/FanControl.ArduinoFanController/issues)
