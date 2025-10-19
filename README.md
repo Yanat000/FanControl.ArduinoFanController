@@ -64,3 +64,12 @@ Tested versions: **FanControl V244**.
 - Fans default to **30% speed** when idle.
 - Putting a 1K resistor across the PWN pin and GND should prevent the fans from going at full speed when it shouldn't
 
+## 💬 Feedback & Support
+
+If you need help setting up the Arduino plugin, have questions, or want to share feedback:
+
+- Ask questions or start a discussion here:  
+  👉 [GitHub Discussions](https://github.com/YOUR_USERNAME/FanControl.ArduinoInterface/discussions)
+
+- Report confirmed bugs or request features here:  
+  👉 [GitHub Issues](https://github.com/YOUR_USERNAME/FanControl.ArduinoInterface/issues)
