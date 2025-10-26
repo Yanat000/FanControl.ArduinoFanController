@@ -38,13 +38,13 @@ Tested versions: **FanControl V244**.
 
 **Default Pins Example:**
 
-| Fan | Pin | Label |
-|-----|-----|-------|
-| 1   | 2   | CPU F |
-| 2   | 4   | SYS F |
-| 3   | 8   | Fan1  |
-| 4   | 10  | Fan-2 |
-| 5   | 12  | Fan 3 |
+| Fan N. | Pin | Label |
+|--------|-----|-------|
+| 1      | 2   | CPU F |
+| 2      | 4   | SYS F |
+| 3      | 8   | Fan1  |
+| 4      | 10  | Fan-2 |
+| 5      | 12  | Fan 3 |
 
 ---
 
