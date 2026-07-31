@@ -7,7 +7,7 @@ This plugin allows FanControl to manage fans connected to an Arduino via PWM. It
 ---
 
 ## ⚠️ Use at Your Own Risk
-This plugin is highly experimental and has not been fully tested.  
+This plugin is highly experimental and has not been fully tested but should work for version upward.  
 Tested versions: **FanControl V244**.  
 
 ---
